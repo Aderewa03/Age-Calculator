@@ -16,8 +16,8 @@
 .calculator{
     width: 100%;
     max-width: 600px;
-    margin-left: 10%;
-    margin-top: 10%;
+    margin: 10% auto 0 auto; /* centers it horizontally */
+    text-align: center;
 }
 
 .calculator h1{
